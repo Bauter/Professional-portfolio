@@ -17,7 +17,7 @@ https://bauter.github.io/Updated-portfolio/
 
 https://themeforest.net/item/alison-portfolio-html-template/23151102\
 
-## How to ge started ##
+## How to get started ##
 
 -Go to the link above and purchase theme "Alison".
 -Download Zipped Folder titled "Master" and extract to a location on your computer.
