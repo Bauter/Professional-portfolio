@@ -5,6 +5,8 @@ Updated developer portfolio using paid theme from themeforest.
 
 https://bauter.github.io/Updated-portfolio/
 
+![portfolio](updatedportfolio.gif)
+
 ## What you will need ##
 
 1. A code editor, I prefer Visual Studio Code ("https://code.visualstudio.com/").
