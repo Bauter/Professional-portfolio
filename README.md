@@ -3,7 +3,7 @@ Updated developer portfolio using paid theme from themeforest.
 
 ## Link to live pages ##
 
-https://bauter.github.io/Updated-portfolio/
+https://bauter.github.io/Professional-portfolio/
 
 ![portfolio](updatedportfolio.gif)
 
